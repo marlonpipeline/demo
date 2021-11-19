@@ -5,9 +5,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
  * Class that defines the startup of the application.
- * teste pipele 1.3  - v3
+ * teste pipele
  * @author fvilarinho
- * @version 1.0.0
+ * @version 1.0.1
  */
 @SpringBootApplication
 public class DemoApplication {
